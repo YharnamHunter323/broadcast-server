@@ -16,20 +16,6 @@ https://roadmap.sh/projects/broadcast-server
 
 ---
 
-## 📁 Project Structure
-
-broadcast-server/
-├── broadcast_server/
-│ ├── init.py
-│ ├── server.py
-│ ├── client.py
-│ └── cli.py
-├── requirements.txt
-├── .gitignore
-└── README.md
-
----
-
 ## 🚀 Getting Started
 
 ### ✅ Requirements
@@ -42,7 +28,7 @@ broadcast-server/
 #### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/YharnamHunter323/broadcast-server
 cd broadcast-server
 ```
 
@@ -72,6 +58,7 @@ Type messages to broadcast to all other clients.
 
 ### CLI Command Summary
 
-Command Description
-start [--host] [--port] Start the broadcast server
-connect [--host] [--port] Connect as a client to the server
+| Command                     | Description                       |
+| --------------------------- | --------------------------------- |
+| `start [--host] [--port]`   | Start the broadcast server        |
+| `connect [--host] [--port]` | Connect as a client to the server |
