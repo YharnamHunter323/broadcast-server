@@ -1,6 +1,6 @@
 import click
-from server import start_server
-from client import start_client
+from broadcast_server.server import start_server
+from broadcast_server.client import start_client
 
 @click.group()
 def cli():
