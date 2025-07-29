@@ -1,6 +1,6 @@
 # 🛰️ Broadcast Server (Python CLI WebSocket Chat)
 
-A simple command-line WebSocket broadcast server and client built with Python. This project demonstrates real-time communication between multiple clients using WebSockets — perfect for learning how chat apps, live feeds, or multiplayer games sync data.
+A simple command-line WebSocket broadcast server and client built with Python. This project demonstrates real-time communication between multiple clients using WebSockets.
 
 https://roadmap.sh/projects/broadcast-server
 
